@@ -1,0 +1,18 @@
+header img {
+  max-width: 60%;
+  height: auto;
+  align-content: center;
+}
+
+.container {
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: left; /* center items vertically, in this case */
+    align-items: left;
+}
+
+.intro-container{
+		margin: 0 auto;
+		max-width: 100%;
+		width: 70em;
+}
